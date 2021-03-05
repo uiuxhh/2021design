@@ -293,6 +293,17 @@ body.open .overlay{display:inline-block;}
 .work_9{background-color:#eae3e3;}
 .work_9 .txt_box{pointer-events:none;}
 
+
+.work_11 .work_sec_top{position:relative;background:url(../img/works/bg11.jpg) no-repeat;background-size:cover;}
+.work_12 .work_sec_top{position:relative;background:url(../img/works/bg12.jpg) no-repeat;background-size:cover;}
+.work_13 .work_sec_top{position:relative;background:url(../img/works/bg13.jpg) no-repeat;background-size:cover;}
+.work_14 .work_sec_top{position:relative;background:url(../img/works/bg14.jpg) no-repeat;background-size:cover;}
+.work_15 .work_sec_top{position:relative;background:url(../img/works/bg15.jpg) no-repeat;background-size:cover;}
+.work_16 .work_sec_top{position:relative;background:url(../img/works/bg16.jpg) no-repeat;background-size:cover;}
+.work_17 .work_sec_top{position:relative;background:url(../img/works/bg17.jpg) no-repeat;background-size:cover;}
+.work_18 .work_sec_top{position:relative;background:url(../img/works/bg18.jpg) no-repeat;background-size:cover;}
+
+
 .work_11 .color .value{background-color:#006FBD;}
 .work_11 .color .value_2{background-color:#fff;}
 .work_11 .color .value_3{background-color:#333;}
