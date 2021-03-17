@@ -260,10 +260,11 @@ $(document).ready(function(){
 	window.onpopstate = function(){
 		// 작업물 창이 열려있는 경우 창 닫기
 		if (!$('.work_container')){
-			history.go(1);
 			console.log('창열림');
 			$("#pop_works .btn_close").click();
+			history.go(1);
 		}else{
+			console.log('창닫힘');
 			history.go(1);
 		}
 
