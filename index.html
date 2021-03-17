@@ -262,6 +262,13 @@ $(document).ready(function(){
 		history.go(1);
 	};
 
+	window.onpageshow = function(event) {
+		if (event.persisted) {
+			document.location.reload();
+			$("#pop_works .btn_close").click();
+		}
+	};
+
 	// 작업물 섹션 팝업창에서 닫기 버튼을 눌렀을 때 동작
 	$("#pop_works .btn_close").click(function(){
 		$("#pop_works").removeClass('on');
