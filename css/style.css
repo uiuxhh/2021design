@@ -346,6 +346,8 @@ body.open .overlay{display:inline-block;}
 .work_sec_top .txt_white h2.title{color:#fff;}
 
 
+
+
 /*pc*/
 @media screen and (min-width:1024px){.col-l-maxwidth{text-align:right;}
   .col-l-maxwidth .inner{display:inline-block;max-width:80%;text-align:left;}
@@ -428,6 +430,10 @@ body.open .overlay{display:inline-block;}
 .inner_detail p.value{font-size:.9rem;}
 .inner_detail p.url a{font-size:.9rem;}
 #pop_works .btn_close{width: 40px;height: 40px;top: 20px;right: 20px;background:url(../img/img_sprite.png) no-repeat -50px -70px rgba(0,0,0,0.2);background-size:250px 250px;}
+
+.work_sec_top .m_txt_white p{color:#fff;}
+.work_sec_top .m_txt_white .desc{font-weight:500;}
+.work_sec_top .m_txt_white h2.title{color:#fff;}
 }
 
 
